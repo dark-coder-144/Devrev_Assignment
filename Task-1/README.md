@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Steps to create a work-item using Devrev API
 
 * Log in to your Devrev Account
@@ -35,3 +36,7 @@
 * References
     * API Documentation
     * DevRev Docs
+=======
+# Steps to create a work-item using Devrev API
+
+>>>>>>> 7827a5365fbf4022366817866b02c75abd4219bc
